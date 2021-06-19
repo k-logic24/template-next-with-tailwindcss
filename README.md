@@ -1,9 +1,8 @@
 # Next.js with Tailwindcss
-Next.jsにTailwindcssを導入したテンプレート
 
 ## version
 ```
-tailwindcss: 
+"tailwindcss": "^1.8.10",
 ```
 
 ## install packages
